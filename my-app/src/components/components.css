@@ -1,0 +1,27 @@
+.nav-link {
+ color: black !important;
+}
+h1{
+    font-size: 20px !important;
+}
+.flex-container{
+    display: flex;
+}
+.btn{
+    background: orangered;
+    color: white;
+    border-radius: 5px;
+}
+select{
+    box-shadow: none;
+    border: 2px solid black;
+}
+.t-left{
+    text-align: start;
+}
+.t-right{
+    text-align: end;
+}
+.container-pizza{
+
+}
